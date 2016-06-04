@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Yasser/University/Bachelor Project/Instabug/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="983e2f375504bc04def18e709c35192afe92e65f">
+        <dex dex="/Users/Yasser/University/Bachelor Project/Instabug/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-22.1.0_31605edfb1cdc6e7415afcae6a90371b05f2c7cd.jar" />
+    </item>
+    <item
+        jar="/Users/Yasser/University/Bachelor Project/Instabug/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="eeebabdfd8203f6ab639ccea4ffa1f20e1adee3a">
+        <dex dex="/Users/Yasser/University/Bachelor Project/Instabug/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-22.1.0_28db34eabe2e574c56156b55d034a92f9328436e.jar" />
+    </item>
+    <item
+        jar="/Users/Yasser/University/Bachelor Project/Instabug/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="eeebabdfd8203f6ab639ccea4ffa1f20e1adee3a">
+        <dex dex="/Users/Yasser/University/Bachelor Project/Instabug/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.1.0_28db34eabe2e574c56156b55d034a92f9328436e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Yasser/University/Bachelor Project/Instabug/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="983e2f375504bc04def18e709c35192afe92e65f">
+        <dex dex="/Users/Yasser/University/Bachelor Project/Instabug/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.1.0_31605edfb1cdc6e7415afcae6a90371b05f2c7cd/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Yasser/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.1/f5aa318bda4c6c8d688c9d00b90681dcd82ce636/httpcore-4.4.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="f5aa318bda4c6c8d688c9d00b90681dcd82ce636">
+        <dex dex="/Users/Yasser/University/Bachelor Project/Instabug/app/build/intermediates/transforms/dex/debug/folders/1000/10/httpcore-4.4.1_c106f55365505df1a62a413b159f6fb5d5b5e20f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Yasser/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.1/f5aa318bda4c6c8d688c9d00b90681dcd82ce636/httpcore-4.4.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f5aa318bda4c6c8d688c9d00b90681dcd82ce636">
+        <dex dex="/Users/Yasser/University/Bachelor Project/Instabug/app/build/intermediates/pre-dexed/release/httpcore-4.4.1_c106f55365505df1a62a413b159f6fb5d5b5e20f.jar" />
+    </item>
+    <item
+        jar="/Users/Yasser/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/Users/Yasser/University/Bachelor Project/Instabug/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.1_1111a018691eed888538ebcdbd0bbed22b781a3d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Yasser/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/Users/Yasser/University/Bachelor Project/Instabug/app/build/intermediates/pre-dexed/release/gson-2.6.1_1111a018691eed888538ebcdbd0bbed22b781a3d.jar" />
+    </item>
+    <item
+        jar="/Users/Yasser/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.0/support-annotations-22.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="281bc6c58ecb3644c23fbc5ee0452019f67b4d5d">
+        <dex dex="/Users/Yasser/University/Bachelor Project/Instabug/app/build/intermediates/pre-dexed/release/support-annotations-22.1.0_8bd4089a2e5093aed29040c2dbe9110c7704558f.jar" />
+    </item>
+    <item
+        jar="/Users/Yasser/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.0/support-annotations-22.1.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="281bc6c58ecb3644c23fbc5ee0452019f67b4d5d">
+        <dex dex="/Users/Yasser/University/Bachelor Project/Instabug/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.1.0_8bd4089a2e5093aed29040c2dbe9110c7704558f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Yasser/University/Bachelor Project/Instabug/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="eeb6dadb538137367d01ae224d75b2d903f9081a">
+        <dex dex="/Users/Yasser/University/Bachelor Project/Instabug/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e5367f955e0d536cba1e285723b29ee8abf86aaf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Yasser/University/Bachelor Project/Instabug/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="22bbb673124a6a72619528c858f803d476cb639e">
+        <dex dex="/Users/Yasser/University/Bachelor Project/Instabug/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c029564c0efc997cd6080b510c6c513a8f41fa32/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Yasser/University/Bachelor Project/Instabug/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.0/jars/libs/internal_impl-22.1.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="025cb89f2896c63200ff4c2e6c467a95691d880a">
+        <dex dex="/Users/Yasser/University/Bachelor Project/Instabug/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.1.0_c5cf63dc52bf04a186a83f1b098f3f065635eab1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Yasser/University/Bachelor Project/Instabug/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.0/jars/libs/internal_impl-22.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="025cb89f2896c63200ff4c2e6c467a95691d880a">
+        <dex dex="/Users/Yasser/University/Bachelor Project/Instabug/app/build/intermediates/pre-dexed/release/internal_impl-22.1.0_c5cf63dc52bf04a186a83f1b098f3f065635eab1.jar" />
+    </item>
+
+</items>
